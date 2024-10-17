@@ -8,6 +8,7 @@ The generated data products are made publically available on Zenodo [https://doi
 
 # Related materials
 
+- [Zenodo repository](https://doi.org/10.5281/zenodo.13940847)
 - [AHN viewer](https://www.ahn.nl/ahn-viewer)
 - [AHN point cloud viewer](https://www.ahn.nl/ahn-puntenwolkviewer-maak-3d-kennis-met-de-miljarden-metingen-van-het-ahn)
 - [Laserfarm](https://laserfarm.readthedocs.io/en/latest/index.html): [GitHub page](https://github.com/eEcoLiDAR/Laserfarm), [Publication](https://doi.org/10.1016/j.ecoinf.2022.101836)
