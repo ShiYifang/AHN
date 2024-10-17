@@ -3,6 +3,9 @@ This repository contains the Jupyter notebooks for processing country-wide ALS p
 
 Four country-wide airborne laser scanning surveys were conducted by [Actueel Hoogtebestand Nederland](https://www.ahn.nl/), providing detailed topographic and ecosystem structure information over the past two decades (1996–2022). We employed an open-source high-throughput workflow [Laserfarm](https://github.com/eEcoLiDAR/Laserfarm) (based on the [Laserchicken](https://laserchicken.readthedocs.io/en/latest/) software), to process around 70 TB point clouds into ready-to-use raster layers (LiDAR metrics) at 10 m resolution (~ 59 GB), enabling a wide use and uptake of ecosystem structure information in biodiversity and habitat monitoring, ecosystem and carbon dynamic modeling. Four sets of 25 LiDAR-derived vegetation metrics were generated, representing ecosystem height, cover, and structural variability.
 
+The generated data products are made publically available on Zenodo [https://doi.org/10.5281/zenodo.13940847](https://doi.org/10.5281/zenodo.13940847)
+
+
 # Related materials
 
 - [AHN viewer](https://www.ahn.nl/ahn-viewer)
